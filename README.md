@@ -7,7 +7,6 @@
   📧 <a href="mailto:achille.cesar@gmail.com">achille.cesar@gmail.com</a> &nbsp;|&nbsp;
   🔗 <a href="https://linkedin.com/in/ntwali-achilles-cesar">LinkedIn</a>
 </p>
----
  
 ## 🧑‍💻 About Me
  
@@ -73,7 +72,7 @@ I have delivered measurable results including **40% query performance improvemen
 ✅ 40% reduction in query execution times     → MINECOFIN (AI-assisted tuning)
 ✅ 99.9% database uptime maintained           → GTBank Rwanda
 ✅ 100% disaster recovery success rate        → Multiple environments
-✅ 416 SACCOs integrated into unified schema  → MINECOFIN
+✅ 416 SACCOs integrated into unified schema  → MINECOFIN /(U-SACCO project)
 ✅ 95% reduction in unauthorized access       → Data Bridge Technologies
 ✅ 60+ application releases deployed          → GTBank Rwanda
 ```
@@ -84,7 +83,7 @@ I have delivered measurable results including **40% query performance improvemen
  
 | Period | Role | Organization |
 |---|---|---|
-| 2021 – Present | Database Administrator Consultant | Ministry of Finance (MINECOFIN), Rwanda |
+| 2021 – Present | Database Administrator Consultant | MINECOFIN / U-SACCO project  
 | Mar–Jul 2021 | Team Lead, DBA & Business Analysis | GTBank Rwanda PLC |
 | 2018 – 2021 | System Analyst & Application Enhancement | GTBank Rwanda PLC |
 | 2015 – 2018 | Database Analyst | Data Bridge Technologies |
